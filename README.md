@@ -25,43 +25,44 @@ this repo aims to give users more resources on the majority of topics covered in
 
 ### React Native Foundation
 
-- [Facebook - Reat Native](https://github.com/react-native-community) - React Native Oficial Documentation
+- [Facebook - Reat Native](https://github.com/react-native-community) - React Native Official Documentation
+- [React Native Community](https://github.com/react-native-community) - React Native Official Community. Tools, Modules, Components and more.
 
 ### Styling
 
-- [Oficial docs](https://facebook.github.io/react-native/docs/style)
+- [Official docs](https://facebook.github.io/react-native/docs/style)
 
 ### Layout
 
-- [Oficial docs](https://facebook.github.io/react-native/docs/flexbox)
+- [Official docs](https://facebook.github.io/react-native/docs/flexbox)
 
 ### Tools and Setup
 
-- [Oficial getting started](https://facebook.github.io/react-native/docs/getting-started)
+- [Official getting started](https://facebook.github.io/react-native/docs/getting-started)
 - [Expo](https://docs.expo.io/versions/latest/) - Expo is a set of tools, libraries and services which let you build native iOS and Android apps by writing JavaScript.
 - [Ignite](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
 
 ### Networking
 
-- [Oficial docs](https://facebook.github.io/react-native/docs/network)
+- [Official docs](https://facebook.github.io/react-native/docs/network)
 
 ### Navigation
 
-- [Oficial docs](https://facebook.github.io/react-native/docs/navigation)
+- [Official docs](https://facebook.github.io/react-native/docs/navigation)
 - [react-avigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 - [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 
 ### Animation
 
-- [Oficial docs](https://facebook.github.io/react-native/docs/animations)
+- [Official docs](https://facebook.github.io/react-native/docs/animations)
 
 ### Gestures
 
-- [Oficial docs](https://facebook.github.io/react-native/docs/gesture-responder-system)
+- [Official docs](https://facebook.github.io/react-native/docs/gesture-responder-system)
 
 ### Native Modules
 
-- Oficial docs: [iOS](https://facebook.github.io/react-native/docs/native-modules-ios) | [Android](https://facebook.github.io/react-native/docs/native-modules-android)
+- Official docs: [iOS](https://facebook.github.io/react-native/docs/native-modules-ios) | [Android](https://facebook.github.io/react-native/docs/native-modules-android)
 
 ### Offline
 
