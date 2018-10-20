@@ -17,6 +17,7 @@ this repo aims to give users more resources on the majority of topics covered in
 - [Animation](#animation)
 - [Gestures](#gestures)
 - [Native Modules](#native-modules)
+- [Geolocation Plugins](#geolocation)
 - [Offline](#offline)
 - [Publishing](#publishing)
 - [Who to Follow](#who-to-follow)
@@ -64,6 +65,11 @@ this repo aims to give users more resources on the majority of topics covered in
 
 - Official docs: [iOS](https://facebook.github.io/react-native/docs/native-modules-ios) | [Android](https://facebook.github.io/react-native/docs/native-modules-android)
 
+### Geolocation
+- [react-native-geolocation-service](https://github.com/Agontuk/react-native-geolocation-service) - React native geolocation service for iOS and android. This library tries to solve the issue by using Google Play Service's new 'FusedLocationProviderClient' API, which Google strongly recommends over android's default framework location API.
+- [react-native-background-geolocation](https://github.com/mauron85/react-native-background-geolocation) - Background and foreground geolocation plugin for React Native. Tracks user when app is running in background. React Native fork of [cordova-plugin-background-geolocation](https://github.com/mauron85/cordova-plugin-background-geolocation) with battery-saving "circular region monitoring" and "stop detection". This plugin can be used for geolocation when the app is running in the foreground or background.
+- [react-native-geo-fencing](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library for ios and android.
+
 ### Offline
 
 ### Publishing
@@ -101,3 +107,7 @@ this repo aims to give users more resources on the majority of topics covered in
 - https://twitter.com/Kelset
 - https://twitter.com/jevakallio
 - https://twitter.com/hhg2288
+- https://twitter.com/dan_abramov
+- https://twitter.com/sophiebits
+- https://twitter.com/dkcodehelper
+- https://twitter.com/rickhanlonii
